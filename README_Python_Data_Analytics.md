@@ -131,7 +131,7 @@ This project is licensed under the [MIT License](LICENSE).
 For suggestions, feedback, or collaboration:
 
 - GitHub: [devclass1](https://github.com/devclass1)
-- Email: `your-email@example.com` *(replace with actual)*
+- Email: `contact@aemonline.net` *(replace with actual)*
 
 ---
 
